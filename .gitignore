@@ -1,0 +1,43 @@
+# ============================================================================
+# Grant to Policy Project — CODE ONLY (data intentionally deferred)
+# Tracks scripts + docs; excludes all data/binary (~38GB) and archives.
+# A data-handling decision (LFS / external store / regenerate) comes later.
+# ============================================================================
+
+# ---- OS / IDE / R session state ----
+.DS_Store
+.RData
+.Rhistory
+.Rapp.history
+**/.Rproj.user/
+
+# ---- large data directories (deferred) ----
+_archive/
+_frozen_megafile_jun30/
+**/Overton_20260305/
+**/_cache/
+**/_eric_download/
+**/big_raw/
+WWC-export-archive-*/
+
+# ---- generated HTML-widget sidecar folders (vendored jquery/plotly/css) ----
+**/*_files/
+*.corrupted*
+
+# ---- data & binary outputs (regenerable by the scripts) ----
+*.csv
+*.tsv
+*.rds
+*.rda
+*.RData
+*.xlsx
+*.xls
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.zip
+*.gz
+*.parquet
+*.html
