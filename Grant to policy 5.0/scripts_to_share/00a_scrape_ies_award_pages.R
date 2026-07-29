@@ -16,7 +16,7 @@
 # fetch any new sitemap URLs into it, then parse every cached file with the
 # modifier-aware reader
 #
-# one quirk: this sets ies_purpose to NA when it re-parsed the cache (covariates
+# one thing: this sets ies_purpose to NA when it re-parsed the cache (covariates
 # now come from the program topic/name via stage/part 03b, not the purpose text). the
 # per-page purpose block is still in the cached HTML, so it could be recovered
 # later if a keyword classifier needs it again
