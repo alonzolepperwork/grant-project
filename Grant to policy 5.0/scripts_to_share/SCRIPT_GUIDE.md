@@ -95,15 +95,13 @@ first-citation years + citation counts + year-by-year breakdown.
 -> Draft: **Results / A** (the award->pub->policy timing table; first-gov/non-gov
 years used in **Results / B**).
 
-**`08_survival_profile_lattice.R`** (former 21 + 22 + 23) - three terminal-outcome
-constructs: PART A the **survival datasets** (the one-row-per-grant
-`grant_survival_input.csv` with award/first-pub/first-meta/first-gov/first-non-gov
-years + counts + covariates); PART B the **DOI reach profile + the three Section C
-overlap matrices**; PART C the **9-path pathway lattice**.
--> Draft: **Methods / Analysis / B2 Models** (survival), **Results / A** (pathway
-lattice), **Results / B** (the survival input is the dataset for every Differences
-cut), **Results / C** (DOI overlap 2x2 matrices), **Results / D** (the
-`_excl_multigrant` sensitivity variant).
+**`08_reach_profile_and_lattice.R`** (former 22 + 23) - two policy-reach
+constructs: PART A the **DOI reach profile + the three Section C overlap
+matrices**; PART B the **9-path pathway lattice**.
+-> Draft: **Results / A** (pathway lattice), **Results / C** (DOI overlap 2x2
+matrices).
+(The survival / time-to-event datasets + the cure / hurdle models are a coauthor's
+downstream step, built from the shared master file - not part of this pipeline.)
 
 **`09_descriptives_and_exhibits.R`** (former 08 + 10) - the output layer:
 descriptive tables + the shareable descriptives workbook, then the full

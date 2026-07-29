@@ -34,7 +34,7 @@ search-and-replace it with your address across the folder.
 | 5 | `05_policy_doc_analysis.R` | 05 |
 | 6 | `06_reach_cohorts_and_sensitivity.R` | 06 + 11 + 12 + 15 |
 | 7 | `07_grant_timeline_tables.R` | 16 + 17 + 18 + 19 |
-| 8 | `08_survival_profile_lattice.R` | 21 + 22 + 23 |
+| 8 | `08_reach_profile_and_lattice.R` | 22 + 23 |
 | 9 | `09_descriptives_and_exhibits.R` | 08 + 10 |
 | 10 | `10_audit_reconcile_dictionary.R` | 09 + 20 + 99 |
 
