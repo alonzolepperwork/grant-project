@@ -139,7 +139,7 @@ routes <- read_csv(file.path(P, "table_07_current_grant_policy_doc_routes.csv"),
   left_join(covariates %>% select(grant_id, award_year), by = "grant_id") %>%
   filter(is.na(award_year) | policy_published_year >= award_year) %>%
   left_join(pol_dates, by = "policy_document_id") %>%
-  mutate(is_gov = policy_source_type == "government" & !is.na(policy_source_type))
+  mutate(is_gov = policy_source_type %in% c("government", "igo") & !is.na(policy_source_type))
 
 # multi-grant policy documents: a doc citing >=2 distinct IES grants is probably
 # aggregating literature (a synthesis / WWC-style review) rather than engaging a
@@ -555,7 +555,7 @@ metas <- read_csv(file.path(P, "table_03_current_grant_to_meta_links.csv"), show
 routes <- read_csv(file.path(P, "table_07_current_grant_policy_doc_routes.csv"), show_col_types = FALSE) %>%
   mutate(grant_id = clean_grant(grant_id),
          policy_document_id = as.character(policy_document_id),
-         is_gov = policy_source_type == "government" & !is.na(policy_source_type))
+         is_gov = policy_source_type %in% c("government", "igo") & !is.na(policy_source_type))
 
 #----------------------------------
 ## 2. PER-GRANT REACH INDICATORS ##
@@ -599,7 +599,10 @@ grants <- grants %>%
     TRUE              ~ 2L                        # DOI -> (no policy, no meta)
   ))
 
-# sanity: this should reproduce the scaffold lattice exactly (48/162/41/43/210/0/1/7/16)
+# government includes IGO (gov = policy_source_type in {government, igo}), the
+# convention used in the draft lattice/sankey. draft counts (from the frozen
+# megafile, 480 DOI grants): path order 48/163/31/58/207/0/3/2/16. exact counts
+# depend on the DOI universe (table_02), which can drift as recovery improves.
 stopifnot(nrow(grants) == 528, sum(is.na(grants$path)) == 0)
 
 #--------------------------------------
