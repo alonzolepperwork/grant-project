@@ -8,7 +8,10 @@
 #     year; events in pipeline order = first publication, first meta-analysis,
 #     first non-gov policy citation, first gov policy citation. each event gets a
 #     (time, status) pair for right-censoring. pre-award filter applied
-#     throughout; policy events use BOTH routes
+#     throughout; policy events use BOTH routes.
+#     NOTE: this part only BUILDS the datasets. the cure / hurdle / marginal-cox
+#     models and the survival figures are fit separately (a downstream modeling
+#     step, not part of this pipeline); the datasets here are their input.
 #   PART B: one row per grant DOI that reaches policy DIRECTLY, tagged
 #     by arena (gov / non-gov, US vs non-US gov, federal vs state-local), from
 #     which the three Section C 2x2 overlap matrices are derived
@@ -25,6 +28,8 @@ library(here)
 
 # ============================================================================ #
 # PART A - build_survival_datasets
+# builds the time-to-event datasets only; the cure / hurdle / marginal-cox models
+# and survival figures are fit downstream (not in this pipeline).
 # ============================================================================ #
 P  <- here("outputs", "05_rebuild_current_policy_routes")
 clean_grant <- function(x) str_to_upper(str_trim(as.character(x)))
