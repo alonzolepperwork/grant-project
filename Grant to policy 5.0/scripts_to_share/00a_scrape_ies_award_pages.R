@@ -6,7 +6,7 @@
 # Crossref DOI recovery (00b). the IES sitemap at /sitemap/awards.xml lists the
 # award URLs; we fetch each, cache the HTML, and parse
 #
-# we parse the cache rather than the live sitemap because a naive per-sitemap-URL
+# we parse the cache rather than the live sitemap because a per-sitemap-URL
 # parse missed ~270 of the 528 grants. two reasons: (a) the post-2021 redesign
 # moved the award number from a labeled field to a value-pair MODIFIER class, so
 # a label-only parser returned NA and dropped the row, and (b) the live sitemap
