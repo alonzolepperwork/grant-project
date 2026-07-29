@@ -28,8 +28,8 @@ library(data.table)
 # publication cannot cite any of its papers, so it must not set the first-policy
 # clock (the L4 lag) - it's an off-topic mis-link, a bad Overton date, or a
 # working-paper-version year mismatch. the 1-year grace keeps online-first /
-# early-view citations. TIMING only; reach counts are untouched. mirrors
-# 08_survival_profile_lattice.R
+# early-view citations. TIMING only; reach counts are untouched. same grace is
+# used in 07_grant_timeline_tables.R.
 POLICY_PUB_GRACE <- 1L
 
 # ============================================================================ #

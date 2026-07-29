@@ -928,7 +928,7 @@ rescue_re <- paste0("(?i)", paste(rescue_titles, collapse = "|"))
 # epidemiology product wrongly attributed to an education grant. surfaced by the
 # policy-before-publication audit (audit_policy_before_pub.R) as hard off-topic
 # mis-links. listing them here drops them from the UNIVERSE (stage 01), not just
-# from the timing events the survival-stage grace filter handles. add new
+# from the timing events the timing grace filter handles. add new
 # confirmed mis-links as audit cases come up
 force_exclude <- tribble(
   ~grant_id,     ~doi,

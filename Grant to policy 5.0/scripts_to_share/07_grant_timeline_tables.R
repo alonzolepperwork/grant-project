@@ -37,7 +37,7 @@ library(here)
 # mis-link, a bad Overton date, or a working-paper-version year mismatch. the
 # 1-year grace keeps online-first / early-view citations. applied to the FIRST-
 # year (timing) events in section 2 only; the counts in sections 3 and 5 are left
-# intact so reach is unchanged. mirrors 08_survival_profile_lattice.R
+# intact so reach is unchanged. same grace is used in 06_reach_cohorts_and_sensitivity.R
 POLICY_PUB_GRACE <- 1L
 
 out_dir <- here("outputs", "_paper_sensitivity")
