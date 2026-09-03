@@ -1,0 +1,165 @@
+grant_id,baseline_title,baseline_program_name,baseline_institution,baseline_award_year,current_program_name,current_award_year,award_year_best,goal_bucket_best,topic_area_best,award_page_url,lookup_note
+R305A040082,NA,NA,NA,NA,Education Research and Development Centers,2004,2004,Multiple Goals,Other,https://ies.ed.gov/use-work/awards/center-data-driven-reform-education,Seeded example from manual IES lookup for a grant with blank title and other baseline fields.
+R305A060044,NA,NA,NA,NA,Education Research and Development Centers,2006,2006,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305A060067,NA,NA,NA,NA,Education Research and Development Centers,2006,2006,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305A160013,NA,NA,NA,NA,Early Learning Programs and Policies,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160026,NA,NA,NA,NA,Literacy,2016,2016,Effectiveness,Effectiveness,,Add an IES award-page URL here when this grant needs enrichment.
+R305A160060,NA,NA,NA,NA,English Learners,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160082,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160109,NA,NA,NA,NA,Literacy,2016,2016,"Efficacy, Replication","Efficacy, Replication",https://ies.ed.gov/use-work/awards/efficacy-evaluation-zoology-one-kindergarten-research-labs,Seeded example from manual IES lookup for a current-union grant with missing baseline metadata.
+R305A160111,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160140,NA,NA,NA,NA,Postsecondary and Adult Education,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160166,NA,NA,NA,NA,Postsecondary and Adult Education,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160177,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160188,NA,NA,NA,NA,Improving Education Systems,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160241,NA,NA,NA,NA,Cognition and Student Learning,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160242,NA,NA,NA,NA,Postsecondary and Adult Education,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160255,NA,NA,NA,NA,English Learners,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160261,NA,NA,NA,NA,Early Learning Programs and Policies,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160263,NA,NA,NA,NA,Cognition and Student Learning,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160273,NA,NA,NA,NA,Postsecondary and Adult Education,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160346,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160388,NA,NA,NA,NA,Postsecondary and Adult Education,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A160400,NA,NA,NA,NA,Postsecondary and Adult Education,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170044,NA,NA,NA,NA,"Science, Technology, Engineering, and Mathematics (STEM) Education",2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170047,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2017,2017,Effectiveness,Effectiveness,,Add an IES award-page URL here when this grant needs enrichment.
+R305A170052,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170068,NA,NA,NA,NA,Early Learning Programs and Policies,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170074,NA,NA,NA,NA,"Science, Technology, Engineering, and Mathematics (STEM) Education",2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170111,NA,NA,NA,NA,Literacy,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170114,NA,NA,NA,NA,Cognition and Student Learning,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170139,NA,NA,NA,NA,Literacy,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170152,NA,NA,NA,NA,Improving Education Systems,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170160,NA,NA,NA,NA,Postsecondary and Adult Education,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170171,NA,NA,NA,NA,Literacy,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170180,NA,NA,NA,NA,Education Leadership,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170241,NA,NA,NA,NA,Early Learning Programs and Policies,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170243,NA,NA,NA,NA,Education Technology,2017,2017,Effectiveness,Effectiveness,,Add an IES award-page URL here when this grant needs enrichment.
+R305A170250,NA,NA,NA,NA,Improving Education Systems,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170288,NA,NA,NA,NA,English Learners,2017,2017,"Efficacy, Replication","Efficacy, Replication",https://ies.ed.gov/use-work/awards/heterogeneous-effects-english-learner-reclassification-achievement-trajectories,Seeded example from manual IES lookup for a current-union grant with no DOI and blank title.
+R305A170471,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170498,NA,NA,NA,NA,Career and Technical Education,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170523,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170529,NA,NA,NA,NA,Cognition and Student Learning,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170635,NA,NA,NA,NA,Literacy,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A170641,NA,NA,NA,NA,Effective Instruction,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180004,NA,NA,NA,NA,Early Learning Programs and Policies,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180050,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180060,NA,NA,NA,NA,English Learners,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180154,NA,NA,NA,NA,Literacy,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180181,NA,NA,NA,NA,Early Learning Programs and Policies,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180182,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180212,NA,NA,NA,NA,Literacy,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180224,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180227,NA,NA,NA,NA,Postsecondary and Adult Education,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180241,NA,NA,NA,NA,Effective Instruction,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180259,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180290,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180293,NA,NA,NA,NA,Early Learning Programs and Policies,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180326,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180336,NA,NA,NA,NA,English Learners,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180374,NA,NA,NA,NA,Early Learning Programs and Policies,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180377,NA,NA,NA,NA,Postsecondary and Adult Education,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180401,NA,NA,NA,NA,Cognition and Student Learning,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180429,NA,NA,NA,NA,Effective Instruction,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A180513,NA,NA,NA,NA,"Science, Technology, Engineering, and Mathematics (STEM) Education",2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A190065,NA,NA,NA,NA,Effective Instruction,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A190088,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A190162,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2019,2019,Follow-Up,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305A190168,NA,NA,NA,NA,Literacy,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A190256,NA,NA,NA,NA,Education Technology,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A190360,NA,NA,NA,NA,Civics Education and Social Studies,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A190478,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A190521,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305A200035,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A200060,NA,NA,NA,NA,Improving Education Systems,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A200101,NA,NA,NA,NA,Postsecondary and Adult Education,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A200254,NA,NA,NA,NA,Improving Education Systems,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A200297,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A200307,NA,NA,NA,NA,Career and Technical Education,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A200436,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210008,NA,NA,NA,NA,Effective Instruction,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210017,NA,NA,NA,NA,Postsecondary and Adult Education,2021,2021,Follow-Up,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210130,NA,NA,NA,NA,Early Learning Programs and Policies,2021,2021,Follow-Up,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210157,NA,NA,NA,NA,Early Learning Programs and Policies,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210269,NA,NA,NA,NA,Postsecondary and Adult Education,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210276,NA,NA,NA,NA,Postsecondary and Adult Education,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210286,NA,NA,NA,NA,Postsecondary and Adult Education,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210292,NA,NA,NA,NA,Improving Education Systems,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210412,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210462,NA,NA,NA,NA,Social and Behavioral Context for Academic Learning,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A210506,NA,NA,NA,NA,Early Learning Programs and Policies,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A220036,NA,NA,NA,NA,Early Learning Programs and Policies,2022,2022,Follow-Up,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305A220107,NA,NA,NA,NA,Cognition and Student Learning,2022,2022,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305A220281,NA,NA,NA,NA,Early Learning Programs and Policies,2022,2022,Follow-Up,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C090023,NA,NA,NA,NA,Education Research and Development Centers,2009,2009,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C100023,NA,NA,NA,NA,Education Research and Development Centers,2010,2010,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C120001,NA,NA,NA,NA,Education Research and Development Centers,2012,2012,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C120008,NA,NA,NA,NA,Education Research and Development Centers,2012,2012,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C140008,NA,NA,NA,NA,Education Research and Development Centers,2014,2014,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C140018,NA,NA,NA,NA,Education Research and Development Centers,2014,2014,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C150017,NA,NA,NA,NA,Education Research and Development Centers,2015,2015,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C160004,NA,Education Research and Development Centers,UNIVERSITY OF FLORIDA,2016,Education Research and Development Centers,2016,2016,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C180025,NA,NA,NA,NA,Education Research and Development Centers,2018,2018,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C190004,NA,NA,NA,NA,Education Research and Development Centers,2019,2019,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C190007,NA,NA,NA,NA,Education Research and Development Centers,2019,2019,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C190014,NA,NA,NA,NA,Education Research and Development Centers,2019,2019,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C200008,NA,NA,NA,NA,Education Research and Development Centers,2020,2020,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C200012,NA,NA,NA,NA,Education Research and Development Centers,2020,2020,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C200016,NA,NA,NA,NA,Education Research and Development Centers,2020,2020,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305C210003,NA,NA,NA,NA,Education Research and Development Centers,2021,2021,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305E050135,NA,NA,NA,NA,Education Leadership,2005,2005,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305F100005,NA,Reading for Understanding Research Initiative,EDUCATIONAL TESTING SERVICE (ETS),2010,Reading for Understanding Research Initiative,2010,2010,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R305H170006,NA,NA,NA,NA,Evaluation of State and Local Education Programs and Policies,2017,2017,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305H170042,NA,NA,NA,NA,Evaluation of State and Local Education Programs and Policies,2017,2017,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305H170085,NA,NA,NA,NA,Evaluation of State and Local Education Programs and Policies,2017,2017,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305H190004,NA,NA,NA,NA,Evaluation of State and Local Education Programs and Policies,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305H190035,NA,NA,NA,NA,Evaluation of State and Local Education Programs and Policies,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305H190036,NA,NA,NA,NA,Evaluation of State and Local Education Programs and Policies,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305R220012,NA,NA,NA,NA,Research Grants Focused on Systematic Replication,2022,2022,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305R220024,NA,NA,NA,NA,Research Grants Focused on Systematic Replication,2022,2022,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R305S210005,NA,NA,NA,NA,Using Longitudinal Data to Support State Education Policymaking,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305S210008,NA,NA,NA,NA,Using Longitudinal Data to Support State Education Policymaking,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305S210026,NA,NA,NA,NA,Using Longitudinal Data to Support State Education Policymaking,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305S220003,NA,NA,NA,NA,Using Longitudinal Data to Support State Education Policymaking,2022,2022,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305T210046,NA,NA,NA,NA,Transformative Research in the Education Sciences Grants Program,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305X220016,NA,NA,NA,NA,Community College Recovery Research Network,2022,2022,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R305X220018,NA,NA,NA,NA,Community College Recovery Research Network,2022,2022,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A160008,NA,NA,NA,NA,"Science, Technology, Engineering, and Mathematics",2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A160017,NA,NA,NA,NA,"Social, Emotional, and Behavioral Competence",2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A160042,NA,NA,NA,NA,"Science, Technology, Engineering, and Mathematics",2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A160046,NA,NA,NA,NA,"Science, Technology, Engineering, and Mathematics",2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A160136,NA,NA,NA,NA,"Social, Emotional, and Behavioral Competence",2016,2016,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A170008,NA,NA,NA,NA,"Transition to Postsecondary Education, Career, and/or Independent Living",2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A170069,NA,NA,NA,NA,Educators and School-Based Service Providers,2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A170086,NA,NA,NA,NA,"Reading, Writing, and Language",2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A170101,NA,NA,NA,NA,"Reading, Writing, and Language",2017,2017,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A180005,NA,NA,NA,NA,Autism Spectrum Disorders,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A180037,NA,NA,NA,NA,"Social, Emotional, and Behavioral Competence",2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A180091,NA,NA,NA,NA,Autism Spectrum Disorders,2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A190046,NA,NA,NA,NA,"Social, Emotional, and Behavioral Competence",2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A190072,NA,NA,NA,NA,"Reading, Writing, and Language",2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A190145,NA,NA,NA,NA,Special Topic: Systems-Involved Students with Disabilities,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A190154,NA,NA,NA,NA,"Social, Emotional, and Behavioral Competence",2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A190177,NA,NA,NA,NA,Early Intervention and Early Learning,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A190239,NA,NA,NA,NA,"Social, Emotional, and Behavioral Competence",2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A190240,NA,NA,NA,NA,"Reading, Writing, and Language",2018,2018,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324A200007,NA,NA,NA,NA,Autism Spectrum Disorders,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A200063,NA,NA,NA,NA,"Social, Emotional, and Behavioral Competence",2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A200101,NA,NA,NA,NA,"Reading, Writing, and Language",2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A200140,NA,NA,NA,NA,Cognition and Student Learning in Special Education,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A200151,NA,NA,NA,NA,"Reading, Writing, and Language",2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A200154,NA,NA,NA,NA,Autism Spectrum Disorders,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A200176,NA,NA,NA,NA,"Science, Technology, Engineering, and Mathematics",2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A200179,NA,NA,NA,NA,Early Intervention and Early Learning,2020,2020,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A210021,NA,NA,NA,NA,"Reading, Writing, and Language",2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A210266,NA,NA,NA,NA,Educators and School-Based Service Providers,2021,2021,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A220161,NA,NA,NA,NA,"Transition to Postsecondary Education, Career, and/or Independent Living",2022,2022,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324A220215,NA,NA,NA,NA,"Reading, Writing, and Language",2022,2022,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324C080011,NA,NA,NA,NA,Special Education Research and Development Center Program,2008,2008,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R324C110004,NA,NA,NA,NA,Special Education Research and Development Center Program,2011,2011,Multiple Goals,Other,,Add an IES award-page URL here when this grant needs enrichment.
+R324N190002,NA,NA,NA,NA,Research Networks Focused on Critical Problems of Policy and Practice in Special Education: Multi-Tiered Systems of Support,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324N190012,NA,NA,NA,NA,Research Networks Focused on Critical Problems of Policy and Practice in Special Education: Multi-Tiered Systems of Support,2019,2019,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.
+R324R200003,NA,NA,NA,NA,Research Grants Focused on Systematic Replication in Special Education,2020,2020,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324R200005,NA,NA,NA,NA,Research Grants Focused on Systematic Replication in Special Education,2020,2020,"Efficacy, Replication","Efficacy, Replication",,Add an IES award-page URL here when this grant needs enrichment.
+R324X220067,NA,NA,NA,NA,Research to Accelerate Pandemic Recovery in Special Education,2022,2022,Efficacy,Efficacy,,Add an IES award-page URL here when this grant needs enrichment.

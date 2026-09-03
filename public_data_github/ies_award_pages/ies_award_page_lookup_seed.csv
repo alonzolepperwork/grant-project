@@ -1,0 +1,16 @@
+grant_id,award_page_url,lookup_note
+R305A040082,https://ies.ed.gov/use-work/awards/center-data-driven-reform-education,Seeded example from manual IES lookup for a grant with blank title and other baseline fields.
+R305A060044,https://ies.ed.gov/use-work/awards/national-research-center-gifted-and-talented,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R305A160109,https://ies.ed.gov/use-work/awards/efficacy-evaluation-zoology-one-kindergarten-research-labs,Seeded example from manual IES lookup for a current-union grant with missing baseline metadata.
+R305A170114,https://ies.ed.gov/use-work/awards/increasing-learning-promoting-early-abstract-thought,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R305A170243,https://ies.ed.gov/use-work/awards/using-web-based-cognitive-assessment-systems-predicting-student-performance-state-exams,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R305A170288,https://ies.ed.gov/use-work/awards/heterogeneous-effects-english-learner-reclassification-achievement-trajectories,Seeded example from manual IES lookup for a current-union grant with no DOI and blank title.
+R305A170529,https://ies.ed.gov/use-work/awards/attention-memory-and-executive-functions-written-language-expression-elementary-school-children,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R305C140018,https://ies.ed.gov/use-work/awards/national-research-center-gifted-and-talented,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R305C190007,https://ies.ed.gov/use-work/awards/pathway-project-cognitive-strategies-approach-reading-and-writing-instruction-teachers-secondary,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R305C200016,https://ies.ed.gov/use-work/awards/center-research-educational-achievement-and-teaching-english-language-learners-create,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R305E050135,https://ies.ed.gov/use-work/awards/study-innovative-school-leadership-performance-evaluation-systems,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R305F100005,https://ies.ed.gov/use-work/awards/developing-reading-comprehension-assessments-targeting-struggling-readers,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R305R220012,https://ies.ed.gov/use-work/awards/harnessing-retrieval-practice-enhance-learning-diverse-domains,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R305R220024,https://ies.ed.gov/use-work/awards/efficacy-sound-partners-supplemental-tutoring-ell-students-grades-k-1,Auto-discovered from the public IES sitemap and matched uniquely on award number.
+R324N190002,https://ies.ed.gov/use-work/awards/project-viable-validation-instruments-assessing-behavior-longitudinally-and-efficiently,Auto-discovered from the public IES sitemap and matched uniquely on award number.

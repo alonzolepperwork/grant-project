@@ -1,0 +1,529 @@
+grant_id,is_center_grant,reason,grant_program_name
+R305A040043,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305A040056,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305A040082,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305A050004,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305A050056,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305A060010,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305A060021,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305A060034,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305A060044,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305A060067,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305A070063,FALSE,not a Research and Development Center program,Education Research Grants
+R305A070117,FALSE,not a Research and Development Center program,Education Research Grants
+R305A070185,FALSE,not a Research and Development Center program,Education Research Grants
+R305A070324,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080063,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080066,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080096,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080133,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080196,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080253,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080326,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080347,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080372,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080459,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080464,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080479,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080512,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080608,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080627,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080631,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080696,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080697,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080699,FALSE,not a Research and Development Center program,Education Research Grants
+R305A080700,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090019,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090032,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090039,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090094,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090100,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090114,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090150,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090162,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090195,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090197,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090204,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090209,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090212,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090281,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090294,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090353,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090361,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090369,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090438,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090446,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090479,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090481,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090527,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090528,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090533,FALSE,not a Research and Development Center program,Education Research Grants
+R305A090555,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100047,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100058,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100066,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100116,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100120,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100275,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100289,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100342,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100367,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100369,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100381,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100389,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100445,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100568,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100583,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100596,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100625,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100654,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100670,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100971,FALSE,not a Research and Development Center program,Education Research Grants
+R305A100995,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110085,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110112,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110136,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110149,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110176,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110204,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110252,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110297,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110358,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110397,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110398,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110483,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110515,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110609,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110685,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110703,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110809,FALSE,not a Research and Development Center program,Education Research Grants
+R305A110967,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120045,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120125,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120145,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120184,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120262,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120269,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120280,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120288,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120391,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120466,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120631,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120677,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120781,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120809,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120810,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120811,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120812,FALSE,not a Research and Development Center program,Education Research Grants
+R305A120813,FALSE,not a Research and Development Center program,Education Research Grants
+R305A130011,FALSE,not a Research and Development Center program,Education Research Grants
+R305A130044,FALSE,not a Research and Development Center program,Education Research Grants
+R305A130107,FALSE,not a Research and Development Center program,Education Research Grants
+R305A130125,FALSE,not a Research and Development Center program,Education Research Grants
+R305A130143,FALSE,not a Research and Development Center program,Education Research Grants
+R305A130195,FALSE,not a Research and Development Center program,Education Research Grants
+R305A130206,FALSE,not a Research and Development Center program,Education Research Grants
+R305A130336,FALSE,not a Research and Development Center program,Education Research Grants
+R305A130400,FALSE,not a Research and Development Center program,Education Research Grants
+R305A130700,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140059,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140070,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140092,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140121,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140189,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140221,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140253,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140298,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140340,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140356,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140361,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140363,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140378,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140386,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140488,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140493,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140559,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140692,FALSE,not a Research and Development Center program,Education Research Grants
+R305A140698,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150043,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150046,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150049,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150057,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150058,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150088,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150108,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150142,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150169,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150200,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150207,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150221,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150243,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150253,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150325,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150407,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150429,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150431,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150438,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150463,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150477,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150488,FALSE,not a Research and Development Center program,Education Research Grants
+R305A150517,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160013,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160026,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160060,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160082,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160109,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160111,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160140,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160166,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160177,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160188,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160223,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160241,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160242,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160255,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160261,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160263,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160273,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160346,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160388,FALSE,not a Research and Development Center program,Education Research Grants
+R305A160400,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170044,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170047,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170052,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170068,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170074,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170111,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170114,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170139,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170152,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170160,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170171,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170180,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170241,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170243,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170250,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170288,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170471,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170498,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170523,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170529,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170635,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170640,FALSE,not a Research and Development Center program,Education Research Grants
+R305A170641,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180004,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180050,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180060,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180154,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180181,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180182,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180212,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180224,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180227,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180241,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180259,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180290,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180293,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180326,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180336,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180374,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180377,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180401,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180429,FALSE,not a Research and Development Center program,Education Research Grants
+R305A180513,FALSE,not a Research and Development Center program,Education Research Grants
+R305A190065,FALSE,not a Research and Development Center program,Education Research Grants
+R305A190088,FALSE,not a Research and Development Center program,Education Research Grants
+R305A190162,FALSE,not a Research and Development Center program,Education Research Grants
+R305A190168,FALSE,not a Research and Development Center program,Education Research Grants
+R305A190256,FALSE,not a Research and Development Center program,Education Research Grants
+R305A190360,FALSE,not a Research and Development Center program,Education Research Grants
+R305A190478,FALSE,not a Research and Development Center program,Education Research Grants
+R305A190521,FALSE,not a Research and Development Center program,Education Research Grants
+R305A200035,FALSE,not a Research and Development Center program,Education Research Grants
+R305A200060,FALSE,not a Research and Development Center program,Education Research Grants
+R305A200101,FALSE,not a Research and Development Center program,Education Research Grants
+R305A200254,FALSE,not a Research and Development Center program,Education Research Grants
+R305A200297,FALSE,not a Research and Development Center program,Education Research Grants
+R305A200307,FALSE,not a Research and Development Center program,Education Research Grants
+R305A200436,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210008,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210017,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210130,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210157,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210269,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210276,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210286,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210292,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210412,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210462,FALSE,not a Research and Development Center program,Education Research Grants
+R305A210506,FALSE,not a Research and Development Center program,Education Research Grants
+R305A220036,FALSE,not a Research and Development Center program,Education Research Grants
+R305A220107,FALSE,not a Research and Development Center program,Education Research Grants
+R305A220281,FALSE,not a Research and Development Center program,Education Research Grants
+R305B070048,FALSE,not a Research and Development Center program,Education Research Grants
+R305B070074,FALSE,not a Research and Development Center program,Education Research Grants
+R305B070354,FALSE,not a Research and Development Center program,Education Research Grants
+R305B070508,FALSE,not a Research and Development Center program,Education Research Grants
+R305B070542,FALSE,not a Research and Development Center program,Education Research Grants
+R305B070702,FALSE,not a Research and Development Center program,Education Research Grants
+R305B077307,FALSE,not a Research and Development Center program,Education Research Grants
+R305C080009,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C080015,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C080022,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C090022,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C090023,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C100023,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C100024,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C110011,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C120001,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C120008,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C140007,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C140008,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C140018,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C150007,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C150017,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C160004,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C180025,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C190004,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C190007,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C190014,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C200008,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C200012,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C200016,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305C210003,TRUE,program name contains 'Center' (IES Research and Development Center grant),Education Research and Development Centers
+R305E040085,FALSE,not a Research and Development Center program,Education Research Grants
+R305E050052,FALSE,not a Research and Development Center program,Education Research Grants
+R305E050135,FALSE,not a Research and Development Center program,Education Research Grants
+R305E090003,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E090005,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E090009,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E090010,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E090019,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E100008,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E100013,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E100030,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E100043,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E110019,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E120003,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E120006,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E120010,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E130009,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E150005,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E150006,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305E190002,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305F050006,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050051,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050069,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050080,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050117,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050122,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050161,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050223,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050245,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050256,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050274,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F050284,FALSE,not a Research and Development Center program,Field Initiated Evaluations of Education Innovations
+R305F100002,FALSE,not a Research and Development Center program,Reading for Understanding Research Initiative
+R305F100005,FALSE,not a Research and Development Center program,Reading for Understanding Research Initiative
+R305F100007,FALSE,not a Research and Development Center program,Reading for Understanding Research Initiative
+R305F100013,FALSE,not a Research and Development Center program,Reading for Understanding Research Initiative
+R305F100026,FALSE,not a Research and Development Center program,Reading for Understanding Research Initiative
+R305F100027,FALSE,not a Research and Development Center program,Reading for Understanding Research Initiative
+R305G030140,FALSE,not a Research and Development Center program,Education Research Grants
+R305G040089,FALSE,not a Research and Development Center program,Education Research Grants
+R305G040103,FALSE,not a Research and Development Center program,Education Research Grants
+R305G040104,FALSE,not a Research and Development Center program,Education Research Grants
+R305G040145,FALSE,not a Research and Development Center program,Education Research Grants
+R305G050005,FALSE,not a Research and Development Center program,Education Research Grants
+R305G050216,FALSE,not a Research and Development Center program,Education Research Grants
+R305H030031,FALSE,not a Research and Development Center program,Education Research Grants
+R305H050036,FALSE,not a Research and Development Center program,Education Research Grants
+R305H060042,FALSE,not a Research and Development Center program,Education Research Grants
+R305H060080,FALSE,not a Research and Development Center program,Education Research Grants
+R305H140028,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305H140045,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305H140065,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305H150027,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305H170006,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305H170042,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305H170085,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305H190004,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305H190035,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305H190036,FALSE,not a Research and Development Center program,Partnerships and Collaborations Focused on Problems of Practice or Policy
+R305J020014,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J020020,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J020026,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J020027,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J020039,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J020040,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J020051,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J030037,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J030084,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J030093,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J030103,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305J030120,FALSE,not a Research and Development Center program,Education Research Grants
+R305J030138,FALSE,not a Research and Development Center program,Preschool Curriculum Evaluation Research
+R305K040001,FALSE,not a Research and Development Center program,Education Research Grants
+R305K050004,FALSE,not a Research and Development Center program,Education Research Grants
+R305K050045,FALSE,not a Research and Development Center program,Education Research Grants
+R305K050050,FALSE,not a Research and Development Center program,Education Research Grants
+R305K050157,FALSE,not a Research and Development Center program,Education Research Grants
+R305K060142,FALSE,not a Research and Development Center program,Education Research Grants
+R305L030002,FALSE,not a Research and Development Center program,Social and Character Development
+R305L030003,FALSE,not a Research and Development Center program,Social and Character Development
+R305L030004,FALSE,not a Research and Development Center program,Social and Character Development
+R305L030065,FALSE,not a Research and Development Center program,Social and Character Development
+R305L030162,FALSE,not a Research and Development Center program,Social and Character Development
+R305L030165,FALSE,not a Research and Development Center program,Social and Character Development
+R305L030173,FALSE,not a Research and Development Center program,Social and Character Development
+R305M030052,FALSE,not a Research and Development Center program,Education Research Grants
+R305M030090,FALSE,not a Research and Development Center program,Education Research Grants
+R305M030099,FALSE,not a Research and Development Center program,Education Research Grants
+R305M040086,FALSE,not a Research and Development Center program,Education Research Grants
+R305M050031,FALSE,not a Research and Development Center program,Education Research Grants
+R305M050072,FALSE,not a Research and Development Center program,Education Research Grants
+R305M050223,FALSE,not a Research and Development Center program,Education Research Grants
+R305M050226,FALSE,not a Research and Development Center program,Education Research Grants
+R305M050270,FALSE,not a Research and Development Center program,Education Research Grants
+R305R060022,FALSE,not a Research and Development Center program,Education Research Grants
+R305R060059,FALSE,not a Research and Development Center program,Education Research Grants
+R305R220012,FALSE,not a Research and Development Center program,Research Grants Focused on Systematic Replication
+R305R220024,FALSE,not a Research and Development Center program,Research Grants Focused on Systematic Replication
+R305S210005,FALSE,not a Research and Development Center program,Using Longitudinal Data to Support State Policymaking
+R305S210008,FALSE,not a Research and Development Center program,Using Longitudinal Data to Support State Policymaking
+R305S210026,FALSE,not a Research and Development Center program,Using Longitudinal Data to Support State Policymaking
+R305S220003,FALSE,not a Research and Development Center program,Using Longitudinal Data to Support State Policymaking
+R305T210046,FALSE,not a Research and Development Center program,Transformative Research in the Education Sciences
+R305U050002,FALSE,not a Research and Development Center program,Education Research Grants
+R305U070006,FALSE,not a Research and Development Center program,Unsolicited
+R305W020002,FALSE,not a Research and Development Center program,Education Research Grants
+R305W020005,FALSE,not a Research and Development Center program,Education Research Grants
+R305W030036,FALSE,not a Research and Development Center program,Unsolicited
+R305W030257,FALSE,not a Research and Development Center program,Education Research Grants
+R305W060016,FALSE,not a Research and Development Center program,Education Research Grants
+R305W060027,FALSE,not a Research and Development Center program,Education Research Grants
+R305X220016,FALSE,not a Research and Development Center program,Improving Pandemic Recovery Efforts in Education Agencies
+R305X220018,FALSE,not a Research and Development Center program,Improving Pandemic Recovery Efforts in Education Agencies
+R324A070118,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A070181,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A070183,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A070206,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A080026,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A080037,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A080071,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A080195,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A090044,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A090052,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A090091,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A090094,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A090104,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A090111,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A090179,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A090181,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A100022,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A100115,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A100166,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A100174,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A100215,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A100225,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A100305,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A100391,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110018,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110027,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110048,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110053,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110079,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110135,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110166,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110173,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110183,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110246,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110256,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A110353,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120027,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120041,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120097,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120153,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120169,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120178,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120232,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120260,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120291,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120304,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120344,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120358,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120363,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120365,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A120410,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A130066,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A130180,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A130216,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A140002,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A140003,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A140005,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150021,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150047,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150076,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150078,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150094,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150103,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150138,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150149,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150179,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150221,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A150269,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A160008,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A160017,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A160042,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A160046,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A160136,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A170008,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A170069,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A170086,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A170101,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A170148,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A180005,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A180037,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A180091,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A180221,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A190046,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A190072,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A190145,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A190154,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A190177,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A190239,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A190240,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A200007,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A200063,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A200101,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A200140,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A200151,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A200154,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A200176,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A200179,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A210021,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A210266,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A220161,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324A220215,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324B060003,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324B060029,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324B060047,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324B070219,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324C080006,TRUE,program name contains 'Center' (IES Research and Development Center grant),Special Education Research and Development Centers
+R324C080011,TRUE,program name contains 'Center' (IES Research and Development Center grant),Special Education Research and Development Centers
+R324C100004,TRUE,program name contains 'Center' (IES Research and Development Center grant),Special Education Research and Development Centers
+R324C110004,TRUE,program name contains 'Center' (IES Research and Development Center grant),Special Education Research and Development Centers
+R324C120001,TRUE,program name contains 'Center' (IES Research and Development Center grant),Special Education Research and Development Centers
+R324C120006,TRUE,program name contains 'Center' (IES Research and Development Center grant),Special Education Research and Development Centers
+R324D130003,FALSE,not a Research and Development Center program,Accelerating the Academic Achievement of Students with Learning Disabilities
+R324E060067,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324E060068,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324E060086,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324E060088,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324G060005,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324N190002,FALSE,not a Research and Development Center program,Research Networks Focused on Critical Problems of Education Policy and Practice in Special Education
+R324N190012,FALSE,not a Research and Development Center program,Research Networks Focused on Critical Problems of Education Policy and Practice in Special Education
+R324R200003,FALSE,not a Research and Development Center program,Research Grants Focused on Systematic Replication
+R324R200005,FALSE,not a Research and Development Center program,Research Grants Focused on Systematic Replication
+R324S060043,FALSE,not a Research and Development Center program,Special Education Research Grants
+R324X220067,FALSE,not a Research and Development Center program,Research to Accelerate Pandemic Recovery in Special Education

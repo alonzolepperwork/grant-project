@@ -1,0 +1,99 @@
+grant_id,grant_institution,grant_institution_type,grant_institution_type_detail
+R305A110483,HighScope Educational Research Foundation,Other,Foundation / Nonprofit
+R305J030138,Success for All Foundation,Other,Foundation / Nonprofit
+R305L030165,Children's Institute,Other,Hospital / Medical Center
+R305C080009,21st Century Partnership for STEM Education,Other,Other
+R305A090294,Instructional Research Group,Other,Other
+R305A150463,Instructional Research Group,Other,Other
+R305M030052,Instructional Research Group,Other,Other
+R305G050216,Pacific Institutes for Research,Other,Other
+R305A080066,Berkeley Policy Associates,Firm,Private Firm
+R305F050274,Berkeley Policy Associates,Firm,Private Firm
+R305A130206,Boulder Language Technologies Inc.,Firm,Private Firm
+R305F050117,"Chesapeake Research Associates, LLC",Firm,Private Firm
+R305A110809,EdBoost Education Corporation,Firm,Private Firm
+R305A150046,"IRIS Media, Inc.",Firm,Private Firm
+R305E090005,Learning Point Associates,Firm,Private Firm
+R305E090010,"MPR Associates, Inc.",Firm,Private Firm
+R305A090446,American Institutes for Research (AIR),Other,Research Organization (Major)
+R305A110149,American Institutes for Research (AIR),Other,Research Organization (Major)
+R305A110252,American Institutes for Research (AIR),Other,Research Organization (Major)
+R305A150049,American Institutes for Research (AIR),Other,Research Organization (Major)
+R305A180241,American Institutes for Research (AIR),Other,Research Organization (Major)
+R305H170006,American Institutes for Research (AIR),Other,Research Organization (Major)
+R305A090114,"Education Development Center, Inc.",Other,Research Organization (Major)
+R305A090479,"Education Development Center, Inc.",Other,Research Organization (Major)
+R305A140488,"Education Development Center, Inc.",Other,Research Organization (Major)
+R305C080022,"Education Development Center, Inc.",Other,Research Organization (Major)
+R305K040001,"Education Development Center, Inc.",Other,Research Organization (Major)
+R305M050072,"Education Development Center, Inc.",Other,Research Organization (Major)
+R305A100066,MDRC,Other,Research Organization (Major)
+R305A110204,MDRC,Other,Research Organization (Major)
+R305A130125,MDRC,Other,Research Organization (Major)
+R305A170250,MDRC,Other,Research Organization (Major)
+R305A200307,MDRC,Other,Research Organization (Major)
+R305B070702,MDRC,Other,Research Organization (Major)
+R305E090019,MDRC,Other,Research Organization (Major)
+R305H140065,MDRC,Other,Research Organization (Major)
+R305A090162,National Bureau of Economic Research (NBER),Other,Research Organization (Major)
+R305A090204,National Bureau of Economic Research (NBER),Other,Research Organization (Major)
+R305A120269,National Bureau of Economic Research (NBER),Other,Research Organization (Major)
+R305A120280,National Bureau of Economic Research (NBER),Other,Research Organization (Major)
+R305E050052,National Bureau of Economic Research (NBER),Other,Research Organization (Major)
+R305E110019,National Bureau of Economic Research (NBER),Other,Research Organization (Major)
+R305A130700,Oregon Research Institute,Other,Research Organization (Major)
+R305A150325,Oregon Research Institute,Other,Research Organization (Major)
+R305F050080,Oregon Research Institute,Other,Research Organization (Major)
+R324A090044,Oregon Research Institute,Other,Research Organization (Major)
+R324A090111,Oregon Research Institute,Other,Research Organization (Major)
+R324A150221,Oregon Research Institute,Other,Research Organization (Major)
+R305A070185,RAND Corporation,Other,Research Organization (Major)
+R305A090039,RAND Corporation,Other,Research Organization (Major)
+R305A140221,RAND Corporation,Other,Research Organization (Major)
+R305A160223,RAND Corporation,Other,Research Organization (Major)
+R305A200101,RAND Corporation,Other,Research Organization (Major)
+R305E120003,RAND Corporation,Other,Research Organization (Major)
+R305E120006,RAND Corporation,Other,Research Organization (Major)
+R305F050122,RAND Corporation,Other,Research Organization (Major)
+R305A120125,SRI International,Other,Research Organization (Major)
+R305A130400,SRI International,Other,Research Organization (Major)
+R305M050226,SRI International,Other,Research Organization (Major)
+R324A110027,SRI International,Other,Research Organization (Major)
+R324A110166,SRI International,Other,Research Organization (Major)
+R324B060003,SRI International,Other,Research Organization (Major)
+R305A080063,WestEd,Other,Research Organization (Major)
+R305A080697,WestEd,Other,Research Organization (Major)
+R305A090197,WestEd,Other,Research Organization (Major)
+R305A100047,WestEd,Other,Research Organization (Major)
+R305A110176,WestEd,Other,Research Organization (Major)
+R305A110515,WestEd,Other,Research Organization (Major)
+R305A120262,WestEd,Other,Research Organization (Major)
+R305A140340,WestEd,Other,Research Organization (Major)
+R305A150088,WestEd,Other,Research Organization (Major)
+R305A150108,WestEd,Other,Research Organization (Major)
+R305B070048,WestEd,Other,Research Organization (Major)
+R305B070354,WestEd,Other,Research Organization (Major)
+R305C100024,WestEd,Other,Research Organization (Major)
+R305K050004,WestEd,Other,Research Organization (Major)
+R305K050050,WestEd,Other,Research Organization (Major)
+R305M050031,WestEd,Other,Research Organization (Major)
+R305K060142,Biological Sciences Curriculum Study (BSCS),Other,Research Organization (Minor)
+R305A100445,CNA Corporation,Other,Research Organization (Minor)
+R305E120010,CNA Corporation,Other,Research Organization (Minor)
+R305A100583,Education Northwest,Other,Research Organization (Minor)
+R305M030099,Haskins Laboratories,Other,Research Organization (Minor)
+R305A080627,Mid-continent Research for Education and Learning (McREL),Other,Research Organization (Minor)
+R305A120045,Mid-continent Research for Education and Learning (McREL),Other,Research Organization (Minor)
+R305A120391,Oregon Social Learning Center,Other,Research Organization (Minor)
+R324A080026,Oregon Social Learning Center,Other,Research Organization (Minor)
+R324A150149,Oregon Social Learning Center,Other,Research Organization (Minor)
+R324A110183,Orelena Hawks Puckett Institute,Other,Research Organization (Minor)
+R305A210286,Research for Action,Other,Research Organization (Minor)
+R305A090150,Southwest Educational Development Corporation (SEDL),Other,Research Organization (Minor)
+R305A100116,Southwest Educational Development Corporation (SEDL),Other,Research Organization (Minor)
+R305A140092,"Technical Education Research Centers, Inc. (TERC)",Other,Research Organization (Minor)
+R305A070324,Washington Research Institute,Other,Research Organization (Minor)
+R305A100568,Washington Research Institute,Other,Research Organization (Minor)
+R305G040103,Washington Research Institute,Other,Research Organization (Minor)
+R305A170068,Arizona State University,Uni,University
+R324A110053,"State University of New York (SUNY), Albany",Uni,University

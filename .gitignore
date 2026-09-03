@@ -41,3 +41,11 @@ WWC-export-archive-*/
 *.gz
 *.parquet
 *.html
+
+# ---- curated PUBLIC data for GitHub release ----
+# Everything above ignores data by extension (code-only policy). Re-include the
+# vetted, Overton-free public data folder so it CAN be committed. This folder is
+# the only data allowed into the repo; the raw Overton dump and the full
+# megafiles/master files remain ignored above and must never be committed.
+!public_data_github/
+!public_data_github/**
