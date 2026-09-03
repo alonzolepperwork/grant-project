@@ -49,3 +49,9 @@ WWC-export-archive-*/
 # megafiles/master files remain ignored above and must never be committed.
 !public_data_github/
 !public_data_github/**
+
+# ---- two hand-curated lookups the pipeline requires (not regenerable) ----
+# The *.csv rule above would exclude them, but the scripts read them from this
+# exact path (here("data","_rewrite_outputs",...)), so allow just these two.
+!Grant to policy 5.0/data/_rewrite_outputs/publisher_lookup.csv
+!Grant to policy 5.0/data/_rewrite_outputs/us_gov_slug_level_lookup.csv

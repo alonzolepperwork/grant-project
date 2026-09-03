@@ -1,0 +1,54 @@
+publisher,ctry,stype
+OECD,IGO,igo
+UNESCO,IGO,igo
+World Bank,IGO,igo
+Inter-American Development Bank,IGO,igo
+CAF - Banco de Desarrollo de América Latina y el Caribe,IGO,igo
+Publications Office of the European Union,EU,igo
+EUR-Lex,EU,igo
+Government of Turkey,Turkey,government
+Government of Indonesia,Indonesia,government
+Government of Singapore,Singapore,government
+Government of Chile,Chile,government
+Government of Peru,Peru,government
+Government of Switzerland,Switzerland,government
+Government of Latvia,Latvia,government
+Government of Estonia,Estonia,government
+Government Offices of Iceland,Iceland,government
+"Ministerie van Onderwijs, Cultuur en Wetenschap",Netherlands,government
+Generalitat de Catalunya,Spain,government
+Junta de Castilla y León,Spain,government
+City of Madrid,Spain,government
+Euskal Autonomia Erkidegoa,Spain,government
+National Council for Curriculum and Assessment,Ireland,government
+National Council for Special Education,Ireland,government
+GOV.IE,Ireland,government
+Haute Autorité de Santé,France,government
+State of Washington,USA,government
+State of Hawaii,USA,government
+State of Indiana,USA,government
+State of Maryland,USA,government
+State of North Carolina,USA,government
+State of Texas,USA,government
+State of Victoria,Australia,government
+Commonwealth of Virginia,USA,government
+City of New York,USA,government
+Province of Québec,Canada,government
+Province of Ontario,Canada,government
+Federal Register,USA,government
+Government Publishing Office (GPO),USA,government
+Brookings Institution,USA,think tank
+NBER,USA,think tank
+Gates Foundation,USA,think tank
+RTI International,USA,think tank
+RAND Corporation,USA,think tank
+SRI,USA,think tank
+National Association of State Boards of Education,USA,think tank
+IZA Institute of Labor Economics,Germany,think tank
+Ifo Institute,Germany,think tank
+Sachverständigenrat deutscher Stiftungen für Integration und Migration,Germany,think tank
+Bernard van Leer Foundation,Netherlands,think tank
+Education Development Trust,UK,think tank
+Education Endowment Foundation,UK,think tank
+Brotherhood of St Laurence,Australia,think tank
+Yidan Prize Foundation,Hong Kong,think tank
