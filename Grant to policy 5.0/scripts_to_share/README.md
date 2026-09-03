@@ -1,5 +1,8 @@
 # Grant-to-Policy pipeline (consolidated, shareable)
 
+This is the analysis pipeline for our project on how IES-funded education research gets
+cited in policy documents.
+
 The 39 original scripts in `scripts_rewrite/` are consolidated into 15, grouped by data source
 and the pipeline phase. Every script writes the same output files as the originals, so
 nothing downstream changes. All external responses are cached, so re-runs make no
@@ -63,24 +66,22 @@ pipeline:
   it twice).
 - **`04` and `10` touch the network** (they contain former 07 and 09, the OpenAlex
   enrichment / validation passes); everything else on the analysis side is local.
-- **`06` PART B (former 11) Overton category shares use the DISTINCT-doc denominator**
-  (8,740,487), not the raw row count (10,167,033 - `df_policy_doc_info` carries ~1.43M
-  duplicate doc rows, all uncategorised). Every numerator is already a distinct-doc count,
-  so the denominator must match; this is what makes education read 11.9% (not 10.2%).
+- **`06` PART B (former 11) Overton category shares use a distinct-doc denominator** (not
+  the raw row count, which double-counts duplicate doc rows); see the comment at
+  `total_docs_in_dump` in `06_reach_cohorts_and_sensitivity.R` for the why.
 
 ## Standalone companions (not in the numbered run order)
 
 - **`policy_to_policy_crosswalk_and_workflow.R`** - second-order (policy-cites-policy)
   amplification crosswalk.
-- **`us_gov_population_fed_state.R`** - full Overton US-government population baseline
-  (Federal 14.6% / State 69.6% / Local 15.9%; two-way Federal 14.6% / State-Local 85.4%).
-  One pass over the 2.9 GB `df_policy_doc_info.csv`; classifies each of the 130 US-gov
+- **`us_gov_population_fed_state.R`** - full Overton US-government population baseline,
+  split Federal / State / Local. One pass over the `df_policy_doc_info.csv` dump;
+  classifies each of the 130 US-gov
   publisher slugs via the committed `data/_rewrite_outputs/us_gov_slug_level_lookup.csv`.
   This is the population denominator behind the IES-subset federal/state split in `05`/`06`.
 - **`sankey_grant_doi_meta_policy.R`** - grant-level Sankey with five columns in order
   (Grants -> DOIs -> Meta -> Non-gov policy -> Gov policy) where a grant drops off at
-  whatever stage its reach ends (no DOI 48, no policy 179, non-gov only 31, reach gov 270;
-  301 reach policy). Reads the project-root megafile; writes
+  whatever stage its reach ends. Reads the project-root megafile; writes
   `outputs/_sankey/sankey_grant_doi_meta_policy.{html,png}`.
 
 The originals in `scripts_rewrite/` are left untouched for diffing.
