@@ -430,14 +430,13 @@ classif_top <- classif_raw[
 
 rm(classif_raw); invisible(gc())
 
-## denominator is the DISTINCT policy_document_id count, NOT the raw row count
-## df_policy_doc_info carries ~1.43M duplicate doc rows (10,167,033 rows ->
-## 8,740,487 distinct docs); the ~1.43M dups are all uncategorised, so they only
-## inflate the cascade "Other" bucket + total. every numerator below is already a
-## distinct-doc count (n_distinct / unique), so the denominator must be too -
-## otherwise education reads 10.2% when it is really 11.9%. (folded in 2026-06-30
-## from recompute_overton_categories_dedup.R; see the 2026-06-22 dedup note.)
-total_docs_in_dump <- 8740487L    # distinct policy_document_id; cached, see scripts_rewrite/99
+## denominator is the DISTINCT policy_document_id count, NOT the raw row count:
+## df_policy_doc_info carries duplicate doc rows, and the dups are all uncategorised,
+## so a raw-row denominator would only inflate the cascade "Other" bucket + total.
+## every numerator below is already a distinct-doc count (n_distinct / unique), so the
+## denominator must match - on the corrected 2026-08-01 dump this is what makes
+## education read 12.2%.
+total_docs_in_dump <- 21620712L    # distinct policy_document_id in the corrected 2026-08-01 dump (was 8740487L in the buggy March dump); see scripts_rewrite/99
 
 full_dump <- classif_top %>%
   as_tibble() %>%
