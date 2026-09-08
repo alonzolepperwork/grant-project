@@ -4,8 +4,7 @@ This is the analysis pipeline for our project on how IES-funded education resear
 cited in policy documents.
 
 The workflow is consolidated into 15 scripts, grouped by data source
-and the pipeline phase. Every script writes the same output files as the originals, so
-nothing downstream changes. All external responses are cached, so re-runs make no
+and the pipeline phase. All external responses are cached, so re-runs make no
 new API calls. (this was a headache before I figured it out)
 
 Paths use `here()`, which anchors to the project root, so these run from this
