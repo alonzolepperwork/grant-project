@@ -82,5 +82,9 @@ pipeline:
   (Grants -> DOIs -> Meta -> Non-gov policy -> Gov policy) where a grant drops off at
   whatever stage its reach ends. Reads the project-root megafile; writes
   `outputs/_sankey/sankey_grant_doi_meta_policy.{html,png}`.
+- **`plot_sankey_grant_reach.R`** - the same grant-level Sankey, recolored and
+  high-resolution, with the four pathways to government policy marked on the flows
+  (P1 direct, P2 via non-gov, P3 via meta, P4 via meta then non-gov). Writes
+  `outputs/_sankey/sankey_grant_reach.{html,png}`.
 
 The originals in `scripts_rewrite/` are left untouched for diffing.
