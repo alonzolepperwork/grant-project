@@ -3,7 +3,7 @@
 This is the analysis pipeline for our project on how IES-funded education research gets
 cited in policy documents.
 
-The 39 original scripts in `scripts_rewrite/` are consolidated into 15, grouped by data source
+The workflow is consolidated into 15 scripts, grouped by data source
 and the pipeline phase. Every script writes the same output files as the originals, so
 nothing downstream changes. All external responses are cached, so re-runs make no
 new API calls. (this was a headache before I figured it out)
