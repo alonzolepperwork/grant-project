@@ -113,7 +113,7 @@ keyhtml <- file.path(out_dir, "sankey_key.html"); keypng <- file.path(out_dir, "
 writeLines(paste0('<html><body style="margin:0">',
   '<div style="width:1080px;font:14px Helvetica,Arial,sans-serif;color:#444;text-align:center;padding:6px">',
   'Pathways to Gov policy &nbsp;&nbsp;&nbsp; P1 direct &nbsp;&nbsp;&nbsp; P2 via non-gov ',
-  '&nbsp;&nbsp;&nbsp; P3 via meta &nbsp;&nbsp;&nbsp; P4 via meta then non-gov</div></body></html>'), keyhtml)
+  '&nbsp;&nbsp;&nbsp; P3 via meta &nbsp;&nbsp;&nbsp; P4 via meta then non-gov (within P2)</div></body></html>'), keyhtml)
 webshot2::webshot(keyhtml, keypng, vwidth = 1100, vheight = 44, zoom = 4)
 key <- magick::image_trim(magick::image_read(keypng))
 W <- magick::image_info(sank)$width
