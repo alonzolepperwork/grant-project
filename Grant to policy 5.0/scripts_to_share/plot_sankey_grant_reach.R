@@ -100,7 +100,7 @@ overlay <- paste0(
   '<style>body{margin:0}</style>',
   tag_div("P2", 840,  70),    # big Non-gov -> Gov flow (via non-gov)
   tag_div("P3", 612, 150),    # Linked-to-meta -> Gov flow (via meta)
-  tag_div("P1", 640, 350))    # No-meta -> Gov flow (direct)
+  tag_div("P1", 730, 322))    # No-meta -> Gov flow (direct)
 txt <- paste(readLines(html, warn = FALSE), collapse = "\n")
 txt <- sub("</body>", paste0(overlay, "</body>"), txt, fixed = TRUE)
 writeLines(txt, html)
